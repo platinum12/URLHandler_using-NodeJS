@@ -1,0 +1,7 @@
+{
+	"name" : "app",
+	"version" : "1.0",
+	"description" : "Test code Silver Peak",
+	"main" : "app.js",
+	"keywords" : ["test", "nodejs", "silver peak"]
+}
